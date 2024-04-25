@@ -33,7 +33,6 @@ public class Cliente {
 
                 boolean exit = false;
                 while (!exit) {
-                    // Print menu options
                     System.out.println("\nMenu:");
                     System.out.println("1) Dólar -> Peso Argentino");
                     System.out.println("2) Peso Argentino -> Dólar");
